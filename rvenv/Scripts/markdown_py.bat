@@ -1,0 +1,1 @@
+@"e:\cse_hackathon\searchrestaurant-master\django\rvenv\scripts\python.exe" "e:\cse_hackathon\searchrestaurant-master\django\rvenv\Scripts\markdown_py" %*
